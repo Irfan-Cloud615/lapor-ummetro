@@ -1,0 +1,85 @@
+{
+  "menu": [
+    {
+      "url": "/admin/dashboard",
+      "name": "Dashboard",
+      "icon": "menu-icon tf-icons ti ti-smart-home",
+      "slug": "admin.dashboard.index",
+      "roles": [
+        "admin"
+      ]
+    },
+    {
+      "url": "/admin/kategori-kasus",
+      "name": "Kategori Kasus",
+      "icon": "menu-icon tf-icons ti ti-category",
+      "slug": "admin.kategori-kasus.index",
+      "roles": [
+        "admin"
+      ]
+    },
+    {
+      "url": "/admin/laporan-masuk",
+      "name": "Laporan Masuk",
+      "icon": "menu-icon tf-icons ti ti-inbox",
+      "slug": "admin.laporan-masuk.index",
+      "roles": [
+        "admin"
+      ]
+    },
+    {
+      "url": "/admin/riwayat-pengaduan",
+      "name": "Riwayat Pengaduan",
+      "icon": "menu-icon tf-icons ti ti-history",
+      "slug": "admin.riwayat-pengaduan.index",
+      "roles": [
+        "admin"
+      ]
+    },
+    {
+      "url": "/admin/satgas",
+      "name": "Satgas",
+      "icon": "menu-icon tf-icons ti ti-shield",
+      "slug": "admin.satgas.index",
+      "roles": [
+        "admin"
+      ]
+    },
+    {
+      "url": "/admin/faq",
+      "name": "FAQ",
+      "icon": "menu-icon tf-icons ti ti-help",
+      "slug": "admin.faq.index",
+      "roles": [
+        "admin"
+      ]
+    },
+    {
+      "url": "/satgas/dashboard",
+      "name": "Dashboard",
+      "icon": "menu-icon tf-icons ti ti-home",
+      "slug": "satgas.dashboard.index",
+      "roles": [
+        "satgas"
+      ]
+    },
+    {
+      "url": "my-cases",
+      "name": "Tugas Saya (My Cases)",
+      "icon": "menu-icon tf-icons ti ti-clipboard-check",
+      "slug": "satgas.my-cases.index",
+      "roles": [
+        "satgas"
+      ]
+    },
+    {
+      "url": "#",
+      "name": "Riwayat Pengaduan",
+      "icon": "menu-icon tf-icons ti ti-history",
+      "slug": "#",
+      "roles": [
+        "satgas"
+      ]
+    }
+  ]
+}

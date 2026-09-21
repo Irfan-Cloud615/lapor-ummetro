@@ -1,0 +1,34 @@
+{
+  "menu": [
+    {
+      "url": "/",
+      "name": "Beranda",
+      "icon": "menu-icon tf-icons ti ti-home",
+      "slug": "pages-home"
+    },
+    {
+      "url": "/lapor-perundungan",
+      "icon": "menu-icon tf-icons ti ti-message-report",
+      "name": "Lapor Perundungan",
+      "slug": "pages-lapor-perundungan"
+    },
+    {
+      "url": "/cek-status-laporan",
+      "name": "Cek Status Laporan",
+      "icon": "menu-icon tf-icons ti ti-file-search",
+      "slug": "pages-cek-status-laporan"
+    },
+    {
+      "url": "/faq",
+      "name": "FAQ",
+      "icon": "menu-icon tf-icons ti ti-help",
+      "slug": "pages-faq"
+    },
+    {
+      "url": "/login",
+      "name": "Login",
+      "icon": "menu-icon tf-icons ti ti-login",
+      "slug": "login"
+    }
+  ]
+}
