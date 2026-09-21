@@ -4,7 +4,7 @@
 
 @extends('layouts/layoutMaster')
 
-@section('title', 'Masuk - Helpdesk Biologi')
+@section('title', 'Masuk - Lapor Biologi')
 
 @section('vendor-style')
     <!-- Vendor -->
@@ -37,12 +37,12 @@
                         <div class="app-brand justify-content-center mb-4 mt-2">
                             <a href="{{ url('/') }}" class="app-brand-link gap-2">
                                 <span class="app-brand-logo demo">@include('_partials.macros', ['height' => 20, 'withbg' => 'fill: #fff;'])</span>
-                                <span class="app-brand-text demo text-body fw-bold ms-1">Helpdesk Biologi</span>
+                                <span class="app-brand-text demo text-body fw-bold ms-1">Lapor</span>
                             </a>
                         </div>
                         <!-- /Logo -->
                         <h4 class="mb-1 pt-2">Selamat Datang! 👋</h4>
-                        <p class="mb-4">Silakan masuk ke akun Anda untuk mengakses sistem Helpdesk Biologi.</p>
+                        <p class="mb-4">Silakan masuk ke akun Anda untuk mengakses sistem Lapor </p>
 
                         @if ($errors->any())
                             <div class="alert alert-danger mb-3" role="alert">
@@ -89,12 +89,12 @@
                             </div>
                         </form>
 
-                        <p class="text-center mb-0">
+                        {{-- <p class="text-center mb-0">
                             <span>Belum memiliki akun?</span>
                             <a href="{{ route('auth-register-basic') }}">
                                 <span>Daftar Akun Baru</span>
                             </a>
-                        </p>
+                        </p> --}}
                     </div>
                 </div>
                 <!-- /Login -->
