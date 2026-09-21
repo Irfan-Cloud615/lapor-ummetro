@@ -16,6 +16,7 @@ package-lock.json
 /.idea
 /.vscode
 /docker
+docker
 # /public/css
 # /public/js
 # /public/mix-manifest.json
