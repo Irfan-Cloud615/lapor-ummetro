@@ -333,7 +333,7 @@
         </section>
 
         <!-- Trust commitments -->
-        <section class="mb-5">
+        {{-- <section class="mb-5">
             <div class="text-center mb-4">
                 <span class="badge bg-label-primary px-3 py-2 mb-2">Komitmen Kami</span>
                 <h3 class="fw-bold mb-1">Kenapa Kamu Aman Melapor di Sini</h3>
@@ -398,10 +398,10 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> --}}
 
         <!-- Commitment strip -->
-        <section class="mb-5">
+        {{-- <section class="mb-5">
             <div class="card">
                 <div class="card-body py-4">
                     <div class="row g-4 text-center">
@@ -438,10 +438,10 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> --}}
 
         <!-- Report flow -->
-        <section id="alur-laporan" class="mb-5">
+        {{-- <section id="alur-laporan" class="mb-5">
             <div class="text-center mb-4">
                 <span class="badge bg-label-primary px-3 py-2 mb-2">Alur Pelaporan</span>
                 <h3 class="fw-bold mb-1">Melapor Itu Mudah</h3>
@@ -496,10 +496,10 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> --}}
 
         <!-- Types of bullying -->
-        <section id="bentuk-perundungan" class="mb-5">
+        {{-- <section id="bentuk-perundungan" class="mb-5">
             <div class="text-center mb-4">
                 <span class="badge bg-label-primary px-3 py-2 mb-2">Kenali Bentuknya</span>
                 <h3 class="fw-bold mb-1">Apa Saja yang Bisa Dilaporkan?</h3>
@@ -582,10 +582,10 @@
                     Tim kami akan membantu menilai — tidak ada laporan yang sia-sia.
                 </span>
             </div>
-        </section>
+        </section> --}}
 
         <!-- FAQ -->
-        <section id="faq" class="mb-5">
+        {{-- <section id="faq" class="mb-5">
             <div class="text-center mb-4">
                 <span class="badge bg-label-primary px-3 py-2 mb-2">Pertanyaan Umum</span>
                 <h3 class="fw-bold mb-1">Masih Ragu? Ini Jawabannya</h3>
@@ -680,10 +680,10 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> --}}
 
         <!-- Emergency help -->
-        <section class="mb-5">
+        {{-- <section class="mb-5">
             <div class="card">
                 <div class="card-body d-flex flex-column flex-md-row align-items-md-center gap-3 py-4">
                     <span class="avatar avatar-lg flex-shrink-0">
@@ -702,10 +702,10 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> --}}
 
         <!-- Final call to action -->
-        <section class="cta-beranda text-center">
+        {{-- <section class="cta-beranda text-center">
             <div class="cta-content">
                 <span class="avatar avatar-xl mb-3">
                     <span class="avatar-initial rounded-circle bg-white text-primary"><i
@@ -725,7 +725,7 @@
                     <i class="ti ti-lock me-1"></i>Aman &bull; Anonim &bull; Tanpa syarat apa pun
                 </p>
             </div>
-        </section>
+        </section> --}}
 
     </div>
 @endsection
